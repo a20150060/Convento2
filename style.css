@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #adb2b3;
+}
+div{
+  display: flex;
+  justify-content: center;+
+  align-items: center;
+  margin: 40px;
+}
+.portada img{
+  height: 400px;
+}
+.titulo p{
+  font-size: 50px;
+  color: white;
+  font-family: "Forte";
+}
+
+.enlace a{
+  font-size: 30px;
+  font-family: "Buxon Sketch";
+}
+.titulo2 p{
+  font-size: 50px;
+  color: white;
+  font-family: "Forte";
+}
+.subtitulo p{
+  font-size: 30px;
+  color: white;
+  font-family: "Buxon Sketch";
+}
+.resumen p{
+  font-size: 20px;
+  color: white;
+  font-family: "buxton sketch";
+  margin: 50px;
+}
+.resumen img{
+  height: 300px;
+}
